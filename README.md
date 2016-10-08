@@ -3,7 +3,7 @@ Example project using Angular2 and Webpack
 
 Based on this <a href="https://angular.io/docs/ts/latest/guide/webpack.html">official Angular2 documentation</a>.
 
-From this seed project:
+From this small seed project:
 
 1- npm install
 
